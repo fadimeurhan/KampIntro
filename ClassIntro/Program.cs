@@ -25,7 +25,7 @@ namespace ClassIntro
             kurs[] kurslar = new kurs[] { kurs1,kurs2,kurs3 };
             foreach (var kurs in kurslar)
             {
-                Console.WriteLine(kurs.KursAdi + " : " + kurs.Egitmen);
+                Console.WriteLine(kurs.KursAdi + " : " + kurs.Egitmen + " = " + kurs.IzlenmeOranı + " Tamamlandı. ");
             }
 
 

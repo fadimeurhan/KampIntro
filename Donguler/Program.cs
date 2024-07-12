@@ -6,9 +6,10 @@ namespace Donguler
     {
         static void Main(string[] args)
         {
-            string[] kurslar = new string[] {"1.kurs",
+            string[] kurslar = new string[] 
+                {"1.kurs",
                 "2.kurs",
-                "3.kurs" };
+                "3.kurs" };  
 
             
 

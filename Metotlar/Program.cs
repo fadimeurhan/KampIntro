@@ -21,6 +21,7 @@ namespace Metotlar
             foreach (var urun in urunler)
             {
                 Console.WriteLine(urun.Adi + " : " + urun.Fiyati);
+                Console.WriteLine("-----------");
             }
 
             Console.WriteLine("--------Methotlar---------");
